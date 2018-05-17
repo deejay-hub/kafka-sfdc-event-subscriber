@@ -1,0 +1,19 @@
+{
+  "name": "kafka-sfdc-event-subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Norris (david.norris@salesforce.com)",
+  "license": "ISC",
+  "dependencies": {
+    "no-kafka": "git://github.com/crcastle/kafka.git#3.0",
+    "faye": "^1.2.4",
+    "nforce": "^1.7.0",
+    "cors": "^2.8.3",
+    "express": "^4.15.3"
+  }
+}
