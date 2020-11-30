@@ -8,7 +8,7 @@ More info about Platform Events be found here:
 More info about Heroku Kafka be found here:
 [Apache Kafka on Heroku](https://www.heroku.com/kafka)
 
-# Deploy to:
+# Deploy to
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 # What does the service do?
